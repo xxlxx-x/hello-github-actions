@@ -9,7 +9,7 @@ inputs:
     default: "Word"
 
 runs:
-  useing: "docker"
+  using: "docker"
   image: "Dockerfile"
 
 branding:
